@@ -1,0 +1,2 @@
+- **2026-02-11 > AGENTS.md > N/A > Added initial agent operating instructions for documentation, git safety, planning, changelog updates, dependency/file permissions, and push workflow.**
+- **2026-02-11 > docs/changelog.md > N/A > Created changelog file and logged initial project setup changes.**
