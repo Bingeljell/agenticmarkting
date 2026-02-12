@@ -44,7 +44,11 @@ const App = () => {
         duration: 3 + i,
         repeat: -1,
         ease: "none",
-        opacity: [0, 1, 0]
+        keyframes: [
+          { opacity: 0, duration: 0 },
+          { opacity: 1, duration: 0.5 },
+          { opacity: 0, duration: 0.5 }
+        ]
       });
     });
 
